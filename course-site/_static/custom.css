@@ -1,7 +1,0 @@
-/* Any .css file in _static/ is loaded automatically by Jupyter Book.
-   Add small tweaks here rather than editing the theme. */
-
-/* Slightly smaller text in the (wide) schedule table */
-table.table td, table.table th {
-  font-size: 0.92rem;
-}
