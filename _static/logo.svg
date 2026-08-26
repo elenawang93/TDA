@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="Course logo">
+  <!-- Placeholder mark: a function with its critical points. Replace with your own logo (png or svg). -->
+  <rect x="0" y="0" width="160" height="160" rx="30" fill="#1f3b5a"/>
+  <path d="M 24 118 C 40 118, 40 62, 56 62 C 72 62, 80 118, 96 118 C 112 118, 112 70, 128 70 C 132 70, 132 78, 136 78 L 136 134 L 24 134 Z"
+        fill="#74c0fc" fill-opacity="0.28"/>
+  <line x1="18" y1="96" x2="142" y2="96" stroke="#ffffff" stroke-opacity="0.45" stroke-width="3" stroke-dasharray="7 7" stroke-linecap="round"/>
+  <path d="M 24 118 C 40 118, 40 62, 56 62 C 72 62, 80 118, 96 118 C 112 118, 112 70, 128 70 C 132 70, 132 78, 136 78"
+        fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="56" cy="62" r="7" fill="#ffb347"/>
+  <circle cx="96" cy="118" r="7" fill="#ffb347"/>
+  <circle cx="128" cy="70" r="7" fill="#ffb347"/>
+</svg>

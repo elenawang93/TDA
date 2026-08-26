@@ -1,0 +1,58 @@
+#######################################################################################
+# Jupyter Book configuration — see https://jupyterbook.org/customize/config.html
+# Change the four lines below first; everything else can stay as-is.
+#######################################################################################
+title: "COURSE 000 - Course Title"          # shown in the browser tab, e.g. "CMSE 890 - TDA"
+author: "Instructor Name"                    # shown in the footer ("By ...")
+copyright: "2026"                            # shown in the footer
+logo: _static/logo.svg                       # top of the left sidebar; swap for your own png/svg
+
+# Only build files listed in _toc.yml (ignores stray .md/.ipynb files)
+only_build_toc_files: true
+
+#######################################################################################
+# Notebook execution
+# "off"   = publish notebooks exactly as committed (outputs included) — simplest, matches the reference site
+# "auto"  = run notebooks that have no outputs at build time
+# "cache" = run once, reuse until the notebook changes
+execute:
+  execute_notebooks: "off"
+
+#######################################################################################
+# Markdown (MyST) features: $math$, ::: fenced admonitions, auto-links, task lists
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - colon_fence
+    - dollarmath
+    - linkify
+    - substitution
+    - tasklist
+
+#######################################################################################
+# HTML options
+html:
+  home_page_in_navbar: false      # logo links home; keeps the sidebar clean like the reference
+  use_edit_page_button: false
+  use_repository_button: false    # set true (with repository.url below) to show a GitHub button
+  use_issues_button: false
+  use_multitoc_numbering: false
+  baseurl: ""                      # e.g. https://USERNAME.github.io/REPO-NAME/
+
+# Point this at the GitHub repo once it exists (used by the buttons above and the launch links)
+repository:
+  url: https://github.com/USERNAME/REPO-NAME
+  branch: main
+  path_to_book: ""
+
+# Optional "download as PDF" support via LaTeX (not needed for the website itself)
+latex:
+  latex_documents:
+    targetname: book.tex
+
+#######################################################################################
+# Extra Sphinx settings
+sphinx:
+  config:
+    html_show_copyright: true
+    # Any .css file placed in _static/ is loaded automatically
