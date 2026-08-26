@@ -1,13 +1,11 @@
-
-Custom · CSS
 /* Any .css file in _static/ is loaded automatically by Jupyter Book.
    Add small tweaks here rather than editing the theme. */
- 
+
 /* Slightly smaller text in the (wide) schedule table */
 table.table td, table.table th {
   font-size: 0.92rem;
 }
- 
+
 /* Make the "Homepage" link at the top of the sidebar look like the section headings
    (Course Info, Lectures): same weight and colour, flush left instead of indented. */
 nav.bd-links .bd-sidenav__home-link li > a {
@@ -15,22 +13,34 @@ nav.bd-links .bd-sidenav__home-link li > a {
   color: var(--pst-color-text-base);
   padding-left: 0;
 }
- 
+
 /* Phone sidebars (the slide-in panels). The browser's default <dialog> styles set margin:auto
    with both top and bottom pinned, so the theme's 100vh-tall panel gets centred vertically.
    On iPhones 100vh is taller than the visible screen, which pushes the top of the panel (and
-   its "Contents" heading) off screen. Pin the panel to the top and size it to the visible
-   viewport instead. */
+   its "Contents" heading) off screen. Pin each panel to the top, size it to the visible
+   viewport, and anchor it to its own side (navigation left, contents right). */
 @media (max-width: 1199.98px) {
   dialog#pst-primary-sidebar-modal[open],
   dialog#pst-secondary-sidebar-modal[open] {
-    margin: 0;
     top: 0;
     bottom: auto;
+    margin-top: 0;
+    margin-bottom: 0;
     height: 100vh;      /* fallback for old browsers */
     height: 100dvh;
     max-height: 100vh;
     max-height: 100dvh;
   }
+  dialog#pst-primary-sidebar-modal[open] {
+    left: 0;
+    right: auto;
+    margin-left: 0;
+    margin-right: auto;
+  }
+  dialog#pst-secondary-sidebar-modal[open] {
+    right: 0;
+    left: auto;
+    margin-right: 0;
+    margin-left: auto;
+  }
 }
- 
