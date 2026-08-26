@@ -1,0 +1,4 @@
+# Jupyter Book 1.x = the Sphinx-based generator behind the reference site (2.x is a different tool)
+jupyter-book>=1.0,<2
+# optional: only needed for `ghp-import` manual deploys
+ghp-import
