@@ -4,7 +4,8 @@
 
 - **Where:** PER21, D130
 - **When:** Wednesday 14:00 - 17:00
-- **Discussion:** [course Slack / Discord / Moodle](https://example.com). *See the syllabus for access information.*
+- **Discussion:** To be determined
+<!-- [course Slack / Discord / Moodle](https://example.com). *See the syllabus for access information.* -->
 
 ## Instructor Information
 
