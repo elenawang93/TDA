@@ -9,8 +9,6 @@ Welcome to the TDA course page! I’ll use this space to share lecture notes, an
 - **Discussion:** To be determined
 <!-- [course Slack / Discord / Moodle](https://example.com). *See the syllabus for access information.* -->
 
-## Announcements
-- **26 August: Homework 0** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I’d love to hear about your background—especially in mathematics or algorithms—along with your research interests and experience. You’re also welcome to include any questions you have about the course.
 
 ## Instructor Information
 
@@ -21,6 +19,6 @@ Senior Researcher, Department of Informatics
 
 ---
 
-## Course schedule
 
-Please see the [Course Schedule Page](Course_Info/Schedule.md) for the schedule of events and office hours.
+## Announcements
+- **26 August: Homework 0** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I’d love to hear about your background—especially in mathematics or algorithms—along with your research interests and experience. You’re also welcome to include any questions you have about the course.
