@@ -56,3 +56,7 @@ sphinx:
   config:
     html_show_copyright: true
     # Any .css file placed in _static/ is loaded automatically
+  local_extensions:
+    home_title: ./_ext
+  config:
+    html_show_copyright: true

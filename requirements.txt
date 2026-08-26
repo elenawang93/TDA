@@ -1,4 +1,8 @@
 # Jupyter Book 1.x = the Sphinx-based generator behind the reference site (2.x is a different tool)
 jupyter-book>=1.0,<2
+# Pinned so the sidebar workaround in _static/mobile-sidebar-fix.js keeps matching the theme.
+# When upgrading these, delete that file and re-test the sidebars on a phone.
+sphinx-book-theme==1.3.0
+pydata-sphinx-theme==0.17.1
 # optional: only needed for `ghp-import` manual deploys
 ghp-import

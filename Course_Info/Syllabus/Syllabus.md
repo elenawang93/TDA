@@ -32,7 +32,7 @@ If you have particular needs or concerns about working in English, come and see 
  
 After each class meeting, I will assign one or two problems related to that day's material. At the beginning of the next class, one or more students will present solutions and lead a brief discussion. These problems are intended to help everyone keep pace with the course and to give us regular opportunities to practice explaining mathematical and computational ideas clearly.
 
-Each student should expect to present approximately twice during the semester, although I reserve the right to adjust this number depending on enrollment and the course schedule. Presenters should be prepared to explain their reasoning and answer questions, not merely reproduce a written solution.
+Each student should expect to present approximately three times during the semester, although I reserve the right to adjust this number depending on enrollment and the course schedule. Presenters should be prepared to explain their reasoning and answer questions, not merely reproduce a written solution.
  
 ### Written and programming homework
  
@@ -150,6 +150,6 @@ I ask everyone in the course to help create a welcoming environment that respect
 
 ## Acknowledgments
 
-The structure and content of this course draw on courses taught by [Elizabeth Munch](https://lizliz.github.io/CMSE890-TDA-Fall2025/) (Michigan State University), [Erin Wolf Chambers](https://wolfchambers.github.io/fall25/) (University of Notre Dame), and Michael Kerber (Graz University of Technology). Many thanks to all three for making their material available.
+The structure and content of this course draw on courses taught by [Prof. Elizabeth Munch](https://lizliz.github.io/CMSE890-TDA-Fall2025/) (Michigan State University), [Prof. Erin Wolf Chambers](https://wolfchambers.github.io/fall25/) (University of Notre Dame), and [Prof. Michael Kerber](https://www.geometrie.tugraz.at/kerber/) (Graz University of Technology). Many thanks to all three for making their material available.
 
 Several formulations in the attendance, regrading, collaboration, academic-integrity, and children-in-class policies were adapted from [course policies by Erin Wolf Chambers](https://cs.slu.edu/~chambers/spring20/advancedDS/policies.html). Her posted children-in-class policy in turn credits Dr. Melissa Cheyney.
