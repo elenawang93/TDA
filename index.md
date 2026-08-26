@@ -21,4 +21,4 @@ Senior Researcher, Department of Informatics
 
 
 ## Announcements
-- **26 August: Homework 0** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I’d love to hear about your background—especially in mathematics or algorithms—along with your research interests and experience. You’re also welcome to include any questions you have about the course.
+- **26 August – Homework 0** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I'd love to hear about your background—especially in mathematics or algorithms—along with your research interests and experience. You're also welcome to include any questions you have about the course.

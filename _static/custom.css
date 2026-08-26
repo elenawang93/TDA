@@ -11,7 +11,10 @@ table.table td, table.table th {
 nav.bd-links .bd-sidenav__home-link li > a {
   font-weight: var(--pst-sidebar-header-font-weight);
   color: var(--pst-color-text-base);
-  padding-left: 0;
+  /* keep the text aligned with the headings, but leave room so the blue "current page"
+     bar sits in the gutter to the left of the text instead of touching it */
+  margin-left: -0.65rem;
+  padding-left: 0.65rem;
 }
 
 /* Phone sidebars (the slide-in panels). The browser's default <dialog> styles set margin:auto
