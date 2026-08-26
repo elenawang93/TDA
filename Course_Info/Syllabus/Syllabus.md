@@ -1,4 +1,4 @@
-# Syllabus
+# Syllabus and Policies
 
 :::{warning}
 If you have found this webpage before the semester has started, this syllabus is not final!

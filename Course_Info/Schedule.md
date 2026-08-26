@@ -1,4 +1,4 @@
-# Course Schedule and Office Hours
+# Course Schedule
 
 The course schedule is maintained below. Note that this schedule is subject to change during the semester, so check back often!
 

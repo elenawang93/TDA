@@ -1,4 +1,4 @@
-# Textbook information
+# Textbook
 
 ## Main textbook
 

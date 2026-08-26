@@ -13,7 +13,6 @@ root: index
 parts:
   - caption: Course Info
     chapters:
-      - file: index
       - file: Course_Info/Schedule
       - file: Course_Info/Syllabus/Syllabus
       - file: Course_Info/Textbook
