@@ -1,20 +1,17 @@
-# COURSE 000 - Course Title
+# Topological Data Analysis
 
 ## Important Course Information
 
-- **Where:** Building, Room 000
-- **When:** Tues/Thurs 10:15 - 11:45 AM
+- **Where:** PER21, D130
+- **When:** Wednesday 14:00 - 17:00
 - **Discussion:** [course Slack / Discord / Moodle](https://example.com). *See the syllabus for access information.*
 
 ## Instructor Information
 
-**Instructor Name**
-[instructor@university.edu](mailto:instructor@university.edu)
-Title
-Department
-
-**Teaching Assistant Name**
-[ta@university.edu](mailto:ta@university.edu)
+**Elena Xinyi Wang**
+[xinyi.wang@unifr.ch](mailto:xinyi.wang@unifr.ch)
+Senior Researcher
+Department of Informatics
 
 ---
 
