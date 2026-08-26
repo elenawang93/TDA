@@ -2,5 +2,5 @@
 
 Short description of what this lecture covers.
 
-- **Reading:** Textbook Ch 1.3
-- **Slides:** Posted after class.
+- **Reading:** DW 1.4, 1.5
+- **Slides:** Coming soon
