@@ -20,6 +20,12 @@ Linear algebra, plus some familiarity with computer programming in any language.
  
 Everything I hand out (demos, assignment starter code, worked examples) will be in Python, mostly as Jupyter notebooks. If you have not used Python before, plan on picking up the basics early in the semester; the setup is covered in Lecture 1.
 
+## Language
+ 
+The course is taught in English, and discussion that involves the whole class is in English so that everyone in the room can follow. Your English is not being assessed anywhere in this course: homework, presentations, and the project are graded on the mathematics and the code, never on grammar, accent, or fluency. A correct argument explained in imperfect English is a correct argument.
+ 
+If you have particular needs or concerns about working in English, come and see me early in the semester and we will discuss alternatives. The University also offers [support for language difficulties](https://www.unifr.ch/campus/en/support/learning-and-success/language-difficulty.html).
+
 ## Course format and assignments
  
 ### In-class problems and presentations
