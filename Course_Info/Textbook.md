@@ -2,21 +2,18 @@
 
 ## Main textbook
 
-- Tamal K. Dey and Yusu Wang, *Computational Topology for Data Analysis*, Cambridge University Press, 2022. The authors' pre-publication version is [free to download](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf). Readings marked **DW** on the [schedule](Schedule.md) refer to this book; the section numbers follow the free PDF.
+- Tamal K. Dey and Yusu Wang, *Computational Topology for Data Analysis*, Cambridge University Press, 2022. The authors' pre-publication version is [free to download](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf). Readings marked **DW** on the [schedule](Schedule.md) refer to this book.
 
 ## Second reference
 
-- Herbert Edelsbrunner and John Harer, *Computational Topology: An Introduction*, American Mathematical Society, 2010. Marked **EH** on the schedule. We use it for matrix reduction (IV.2), persistent homology (VII.1), and stability (VIII.2). Not free, but available through the University library.
+- Herbert Edelsbrunner and John Harer, *Computational Topology: An Introduction*, American Mathematical Society, 2010. Marked **EH** on the schedule. We use it for matrix reduction (IV.2), persistent homology (VII.1), and stability (VIII.2). Available [here](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf).
 
 ## Background and further reading
 
-- Allen Hatcher, *Algebraic Topology*, Cambridge University Press, 2002. [Free online](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html). The standard reference if you want the full story behind homology.
+Both free online. Dip into them when a definition in class goes by too fast.
+ 
+- Allen Hatcher, *Algebraic Topology*, Cambridge University Press, 2002. [Free online](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html). The full story behind homology.
 - Robert Ghrist, *Elementary Applied Topology*, 2014. [Free online](https://www2.math.upenn.edu/~ghrist/notes.html). A short, picture-heavy tour of applied topology.
-- James Munkres, *Topology*, 2nd ed., Prentice Hall, 2000. Point-set topology background for Lecture 1.
-- Steve Oudot, *Persistence Theory: From Quiver Representations to Data Analysis*, AMS Mathematical Surveys and Monographs 209, 2015. The algebraic side of persistence modules (Lecture 8).
-- Gunnar Carlsson and Mikael Vejdemo-Johansson, *Topological Data Analysis with Applications*, Cambridge University Press, 2021.
-- Julien Tierny, *Topological Data Analysis for Scientific Visualization*, Springer, 2017. Reeb graphs and Morse–Smale complexes as used in visualization.
-- Raúl Rabadán and Andrew J. Blumberg, *Topological Data Analysis for Genomics and Evolution*, Cambridge University Press, 2019.
 
 ## Papers on the schedule
 
