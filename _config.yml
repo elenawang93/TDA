@@ -2,8 +2,8 @@
 # Jupyter Book configuration — see https://jupyterbook.org/customize/config.html
 # Change the four lines below first; everything else can stay as-is.
 #######################################################################################
-title: "COURSE 000 - Course Title"          # shown in the browser tab, e.g. "CMSE 890 - TDA"
-author: "Instructor Name"                    # shown in the footer ("By ...")
+title: "Topological Data Analysis"          # shown in the browser tab, e.g. "CMSE 890 - TDA"
+author: "Elena Xinyi Wang"                    # shown in the footer ("By ...")
 copyright: "2026"                            # shown in the footer
 logo: _static/logo.svg                       # top of the left sidebar; swap for your own png/svg
 
