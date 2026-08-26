@@ -10,7 +10,9 @@
 
 **Elena Xinyi Wang**
 [xinyi.wang@unifr.ch](mailto:xinyi.wang@unifr.ch)
+
 Senior Researcher
+
 Department of Informatics
 
 ---
