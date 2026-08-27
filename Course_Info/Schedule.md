@@ -27,7 +27,7 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 Homework and project deliverables are due at 23:59 on the date listed. Problem presentations take place at the start of every class from Lecture 2 onward; the presenter list will be posted here once enrollment has settled.
 <!-- add how work is submitted (Moodle, email, ...) and, if you like, a "Presenter" column -->
 
-## Key dates
+## Key Dates
 
 - **Homework** (posted two weeks before the due date): HW 1 due 9/30, HW 2 due 10/21, HW 3 due 11/11, HW 4 due 12/2.
 - **Final project**
@@ -39,6 +39,6 @@ Homework and project deliverables are due at 23:59 on the date listed. Problem p
   - 12/16 — project presentations in class (slides by 12/15)
   - 12/23 — final report due
 
-## Office hours
+## Office Hours
 
 Office hours are by appointment - email me to set up a time.

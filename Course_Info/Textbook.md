@@ -19,12 +19,12 @@ Both free online. Dip into them when a definition in class goes by too fast.
 
 Listed by the lecture in which they appear. Everything here is either open access or on arXiv.
 
-**Lecture 8 — stability and persistence modules**
+**Lecture 8 — Stability and Persistence Modules**
 
 - David Cohen-Steiner, Herbert Edelsbrunner, and John Harer. Stability of persistence diagrams. *Discrete & Computational Geometry* 37 (2007), 103–120. [doi:10.1007/s00454-006-1276-5](https://doi.org/10.1007/s00454-006-1276-5)
 - David Cohen-Steiner, Herbert Edelsbrunner, and Dmitriy Morozov. Vines and vineyards by updating persistence in linear time. *SoCG 2006*. [pdf](https://www.mrzv.org/publications/vineyards/socg06/)
 
-**Lecture 10 — Reeb graphs**
+**Lecture 10 — Reeb Graphs**
 
 - Brian Bollen, Erin Chambers, Joshua A. Levine, and Elizabeth Munch. Reeb graph metrics from the ground up. [arXiv:2110.05631](https://arxiv.org/abs/2110.05631) (2021). A survey of the distances covered in class.
 
@@ -33,7 +33,7 @@ Listed by the lecture in which they appear. Everything here is either open acces
 - Gurjeet Singh, Facundo Mémoli, and Gunnar Carlsson. Topological methods for the analysis of high dimensional data sets and 3D object recognition. *Eurographics Symposium on Point-Based Graphics* (2007). [doi:10.2312/SPBG/SPBG07/091-100](https://doi.org/10.2312/SPBG/SPBG07/091-100) The original Mapper paper.
 - Mathieu Carrière, Bertrand Michel, and Steve Oudot. Statistical analysis and parameter selection for Mapper. *Journal of Machine Learning Research* 19(12) (2018), 1–39. [pdf](http://jmlr.org/papers/v19/17-291.html)
 
-**Lecture 12 — directional transforms**
+**Lecture 12 — Directional Transforms**
 
 - Elizabeth Munch. An invitation to the Euler characteristic transform. *The American Mathematical Monthly* (2025). [doi:10.1080/00029890.2024.2409616](https://doi.org/10.1080/00029890.2024.2409616), [arXiv:2310.10395](https://arxiv.org/abs/2310.10395). Start here.
 - Katharine Turner, Sayan Mukherjee, and Doug M. Boyer. Persistent homology transform for modeling shapes and surfaces. *Information and Inference* 3(4) (2014), 310–344. [doi:10.1093/imaiai/iau011](https://doi.org/10.1093/imaiai/iau011)
@@ -42,7 +42,7 @@ Listed by the lecture in which they appear. Everything here is either open acces
 - Shreya Arya, Barbara Giunti, Abigail Hickok, Lida Kanari, Sarah McGuire, and Katharine Turner. Decomposing the persistent homology transform of star-shaped objects. [arXiv:2408.14995](https://arxiv.org/abs/2408.14995) (2024). Monodromy in the PHT.
 - Jessi Cisewski-Kehe, Brittany Terese Fasy, Alexander McCleary, and Eli Quist. Tensor computation of Euler characteristic functions and transforms. *SoCG 2026*. [arXiv:2511.03909](https://arxiv.org/abs/2511.03909). Computing the ECT on a GPU; code in [pyECT](https://github.com/compTAG/pyECT).
 
-**Lecture 13 — discrete Morse theory and multiparameter persistence**
+**Lecture 13 — Discrete Morse Theory and Multiparameter Persistence**
 
 - Robin Forman. A user's guide to discrete Morse theory. *Séminaire Lotharingien de Combinatoire* 48 (2002), B48c.
 - Magnus Bakke Botnan and Michael Lesnick. An introduction to multiparameter persistence. [arXiv:2203.14289](https://arxiv.org/abs/2203.14289) (2022).
