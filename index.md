@@ -12,7 +12,7 @@ Welcome to the TDA course page! I’ll use this space to share lecture notes, an
 
 ## Instructor Information
 
-**Elena Xinyi Wang**
+**Dr. Elena Xinyi Wang**
 [xinyi.wang@unifr.ch](mailto:xinyi.wang@unifr.ch)
 
 Senior Researcher, Department of Informatics
