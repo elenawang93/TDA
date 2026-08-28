@@ -104,7 +104,7 @@ Permission to use AI is not permission to outsource your understanding. You rema
 - distinguishing your own contribution from material produced by other people or tools; and
 - understanding and being able to explain all submitted work.
 
-Every written or programming homework submission and the final project report must include a short **Sources and AI-use statement**. At minimum, identify any AI tool used and the purpose for which it was used. When AI materially contributed text, code, mathematical ideas, experimental design, or references, describe where it contributed and how you checked or modified the result. A suitable statement might read:
+Every written or programming homework submission and the final project report must include a short sources and AI-use statement. At minimum, identify any AI tool used and the purpose for which it was used. When AI materially contributed text, code, mathematical ideas, experimental design, or references, describe where it contributed and how you checked or modified the result. A suitable statement might read:
 
 > **AI-use statement:** I used [tool/model] for [purpose]. It contributed to [specific part of the work]. I verified or revised the output by [method].
 
@@ -112,7 +112,7 @@ When no generative AI tool was used, write:
 
 > **AI-use statement:** No generative AI tools were used in preparing this submission.
 
-The in-class problem presentations and final-project presentation are important parts of how understanding will be assessed. I may ask any student to explain a proof, code segment, experimental choice, or source used in a submission. Work that a student cannot adequately explain does not demonstrate the learning required by the assignment and may receive reduced or no credit, even when the submitted artifact appears correct.
+The in-class problem presentations and final-project presentation are important parts of how understanding will be assessed. They are a big part of your grade by design. I may ask any student to explain a proof, code segment, experimental choice, or source used in a submission. Work that a student cannot adequately explain does not demonstrate the learning required by the assignment and may receive reduced or no credit, even when the submitted artifact appears correct.
 
 ### Sources, collaboration, and attribution
 
@@ -150,6 +150,6 @@ I ask everyone in the course to help create a welcoming environment that respect
 
 ## Acknowledgments
 
-The structure and content of this course draw on courses taught by [Prof. Elizabeth Munch](https://lizliz.github.io/CMSE890-TDA-Fall2025/) (Michigan State University), [Prof. Erin Wolf Chambers](https://wolfchambers.github.io/fall25/) (University of Notre Dame), and [Prof. Michael Kerber](https://www.geometrie.tugraz.at/kerber/) (Graz University of Technology). Many thanks to all three for making their material available.
+The structure and content of this course draw on courses taught by Prof. Elizabeth Munch (Michigan State University), Prof. Erin Wolf Chambers (University of Notre Dame), and Prof. Michael Kerber (Graz University of Technology). Many thanks to all three for making their material available.
 
-Several formulations in the attendance, regrading, collaboration, academic-integrity, and children-in-class policies were adapted from [course policies by Erin Wolf Chambers](https://cs.slu.edu/~chambers/spring20/advancedDS/policies.html). Her posted children-in-class policy in turn credits Dr. Melissa Cheyney.
+Several formulations in the attendance, regrading, collaboration, academic-integrity, and children-in-class policies were adapted from course policies by Erin Wolf Chambers. Her posted children-in-class policy in turn credits Dr. Melissa Cheyney.
