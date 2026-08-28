@@ -31,9 +31,9 @@ Homework and project deliverables are due at 23:59 on the date listed. Problem p
 
 - **Homework** (posted two weeks before the due date): HW 1 due 9/30, HW 2 due 10/21, HW 3 due 11/11, HW 4 due 12/2.
 - **Final project**
-  - 10/7 — project introduced in class; suggested paper list posted
-  - 10/28 — project proposal due
-  - 11/4 — written feedback on proposals returned
+  - 21/10 — project introduced in class; suggested paper list posted
+  - 4/11 — project proposal due
+  - 11/11 — written feedback on proposals returned
   - week of 11/18 — check-in meetings, scheduled by appointment
   - 12/2 — presentation schedule posted
   - 12/16 — project presentations in class (slides by 12/15)
