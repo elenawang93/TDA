@@ -10,7 +10,7 @@ The syllabus is available here: {download}`COURSE000-Fall2026-syllabus.pdf`
 
 ## Course description
 
-Topology is the study of shape. Over the last two decades a great deal of work has gone into applying topological ideas to problems in science and engineering, and above all to data analysis; this young field goes by several names, most often computational topology, applied topology, or topological data analysis (TDA). It sits at the intersection of topology, geometry, and algorithms, and its guiding question is how to make the *shape* of a data set precise, computable, and statistically meaningful. Geometric data is now everywhere, and much of it lives in high-dimensional spaces while being organized around lower-dimensional patterns and structures. TDA offers principled ways to detect, summarize, and compare such structure, and to feed it into pipelines for clustering, classification, and simplification.
+Topology is the study of shape. Over the last two decades, a great deal of work has gone into applying topological ideas to problems in science and engineering, and above all to data analysis; this young field goes by several names, most often computational topology, applied topology, or topological data analysis (TDA). It sits at the intersection of topology, geometry, and algorithms, and its guiding question is how to make the *shape* of a data set precise, computable, and statistically meaningful. Geometric data is now everywhere, and much of it lives in high-dimensional spaces while being organized around lower-dimensional patterns and structures. TDA offers principled ways to detect, summarize, and compare such structure, and to feed it into pipelines for clustering, classification, and simplification.
  
 This course surveys the central algorithms and techniques of TDA, covering both the theoretical foundations and the practical tools that are now in wide use across many domains. Along the way we will borrow from algebraic topology, geometry, linear and abstract algebra, algorithm design, statistics, and a little sheaf theory, building up to recent research results. We will study and use efficient software for the objects discussed in class, such as persistent homology and Reeb graphs, and we will look at applications in areas including computer graphics, image analysis, sensor networks, clustering, time series analysis, and genetics.
 
@@ -25,8 +25,8 @@ Everything I hand out (demos, assignment starter code, worked examples) will be 
 ### In-class problems and presentations
  
 After each class meeting, I will assign one or two problems related to that day's material. At the beginning of the next class, one or more students will present solutions and lead a brief discussion. These problems are intended to help everyone keep pace with the course and to give us regular opportunities to practice explaining mathematical and computational ideas clearly.
-
-Each student should expect to present approximately three times during the semester, although I reserve the right to adjust this number depending on enrollment and the course schedule. Presenters should be prepared to explain their reasoning and answer questions, not merely reproduce a written solution.
+ 
+Each student should expect to present approximately twice during the semester, although I reserve the right to adjust this number depending on enrollment and the course schedule. Presenters should be prepared to explain their reasoning and answer questions, not merely reproduce a written solution.
  
 ### Written and programming homework
  
@@ -43,9 +43,9 @@ Because we will discuss current research throughout the course, the final projec
 
 The project will be evaluated in three stages:
 
-1. **Project proposal:** identify the paper or papers, formulate the main question, explain the proposed scope, and provide a realistic plan.
-2. **Project presentation:** explain the relevant background, the paper's contribution, what you did, and what you learned. The presentation will include questions intended to assess your understanding of both the source material and your own work.
-3. **Final report:** provide a clear, self-contained account of the project, including appropriate mathematical, computational, and bibliographic details.
+1. **Project proposal.** Book a short appointment with me during the proposal window (dates on the [schedule](../Schedule.md)) to talk through your candidate paper, your ideas, and a realistic scope; nothing needs to be settled yet. Then submit the written proposal: the paper or papers, the main question, the scope, and a plan. Proposals are accepted only after the appointment, so book early.
+2. **Project presentation.** Explain the background, the paper's contribution, what you did, and what you learned. Questions will probe your understanding of both the source material and your own work, and passing the presentation is required for the report to be graded (see Grading below).
+3. **Final report.** A clear, self-contained account of the project, with the appropriate mathematical, computational, and bibliographic details.
 
 ## Grading
  
@@ -56,6 +56,8 @@ The project will be evaluated in three stages:
 | Final project (proposal 10%, presentation 20%, final report 30%)      | 60%    |
  
 Final grades are given on the Swiss 1–6 scale, with 4.0 required to pass.
+
+**The project presentation is a gate.** In the age of AI, a polished document is not evidence of understanding; a live explanation is. The report is therefore graded only if your presentation earns at least 4.0. If it does not, the report is not graded and the course cannot be passed. If illness or an emergency prevents you from presenting on the scheduled date, contact me as early as possible; approved accessibility accommodations apply to the presentation as to everything else.
 
 ## Course policies
 

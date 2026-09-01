@@ -32,6 +32,8 @@ When no generative AI tool was used, write:
 > **AI-use statement:** No generative AI tools were used in preparing this submission.
 
 The in-class problem presentations and final-project presentation are important parts of how understanding will be assessed. They are a big part of your grade by design. I may ask any student to explain a proof, code segment, experimental choice, or source used in a submission. Work that a student cannot adequately explain does not demonstrate the learning required by the assignment and may receive reduced or no credit, even when the submitted artifact appears correct.
+ 
+This is exactly why generative AI is allowed in this course: the decisive assessment of understanding happens live, where no tool can stand in for you. The final-project presentation is eliminatory: below 4.0, the written report is not graded and the course cannot be passed (see the [syllabus](../Course_Info/Syllabus/Syllabus.md)). Prepare for it as seriously as for the report itself.
 
 ## Sources, collaboration, and attribution
 
