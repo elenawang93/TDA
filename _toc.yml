@@ -17,6 +17,14 @@ parts:
       - file: Course_Info/Syllabus/Syllabus
       - file: Course_Info/Textbook
 
+  - caption: Course Policies
+    chapters:
+      - file: Policies/Deadlines
+      - file: Policies/Integrity
+      - file: Policies/Accessibility
+      - file: Policies/Inclusion
+      - file: Policies/Acknowledgments
+
   - caption: Lectures
     chapters:
       - file: Lectures/01-Introduction/index
