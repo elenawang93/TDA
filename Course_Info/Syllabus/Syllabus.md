@@ -36,28 +36,29 @@ There will be written and/or programming homework approximately once every three
 ### Final project
  
 Because we will discuss current research throughout the course, the final project will be centered on one or two research papers selected by the student in consultation with me. The project may take several forms. For example:
-
+ 
 - For a theoretical paper, you may study the main definitions and results in depth, reconstruct selected proofs, fill in omitted details, or compare alternative formulations.
 - For an experimental or computational paper, you may reproduce selected results, examine the implementation, test the method on a new dataset, or investigate the sensitivity of the conclusions.
 - You may also propose a hybrid or creative project that connects the paper to another topic, develops an extension, or explores a question motivated by the work.
-
-The project will be evaluated in three stages:
-
+The project will be evaluated in four stages:
+ 
 1. **Project proposal.** Book a short appointment with me during the proposal window (dates on the [schedule](../Schedule.md)) to talk through your candidate paper, your ideas, and a realistic scope; nothing needs to be settled yet. Then submit the written proposal: the paper or papers, the main question, the scope, and a plan. Proposals are accepted only after the appointment, so book early.
-2. **Project presentation.** Explain the background, the paper's contribution, what you did, and what you learned. Questions will probe your understanding of both the source material and your own work, and passing the presentation is required for the report to be graded (see Grading below).
+2. **Project presentation.** Explain the background, the paper's contribution, what you did, and what you learned. Questions will probe your understanding of both the source material and your own work, and passing the presentation is required for the rest of the project to be assessed (see Grading below).
 3. **Final report.** A clear, self-contained account of the project, with the appropriate mathematical, computational, and bibliographic details.
-
+4. **Oral exam.** During the exam session, a short individual oral exam (about 20 minutes) on your project: what you did, why, and how it connects to the material of the course.
+The proposal, presentation, report, and oral exam are not four separate tasks; they are four views of one piece of work. The oral exam is worth 5% on paper, but it examines the whole project, so prepare it by understanding what you did, not by studying for 5 points.
+ 
 ## Grading
  
 | Component                                                             | Weight |
 | --------------------------------------------------------------------- | ------ |
 | Written and/or programming homework                                   | 20%    |
 | In-class problem presentations                                        | 20%    |
-| Final project (proposal 10%, presentation 20%, final report 30%)      | 60%    |
+| Final project (proposal 10%, presentation 20%, report 25%, oral exam 5%) | 60%    |
  
 Final grades are given on the Swiss 1–6 scale, with 4.0 required to pass.
-
-**The project presentation is a gate.** In the age of AI, a polished document is not evidence of understanding; a live explanation is. The report is therefore graded only if your presentation earns at least 4.0. If it does not, the report is not graded and the course cannot be passed. If illness or an emergency prevents you from presenting on the scheduled date, contact me as early as possible; approved accessibility accommodations apply to the presentation as to everything else.
+ 
+**The project presentation is a gate.** In the age of AI, a polished document is no longer a sufficient evidence of understanding; but a live explanation is. Passing the presentation (4.0 or higher) is required for the report to be graded and for admission to the oral exam. If the presentation does not pass, the rest of the project is not assessed and the course cannot be passed. If illness or an emergency prevents you from presenting on the scheduled date, contact me as early as possible; approved accessibility accommodations apply to the presentation and the oral exam as to everything else.
 
 ## Course policies
 
