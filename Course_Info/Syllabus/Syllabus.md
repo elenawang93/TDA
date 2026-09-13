@@ -54,7 +54,7 @@ The proposal, presentation, report, and oral exam are not four separate tasks; t
 | --------------------------------------------------------------------- | ------ |
 | Written and/or programming homework                                   | 20%    |
 | In-class problem presentations                                        | 20%    |
-| Final project (proposal 10%, presentation 20%, report 25%, oral exam 5%) | 60%    |
+| Final project (proposal 10%, presentation 25%, report 20%, oral exam 5%) | 60%    |
  
 Final grades are given on the Swiss 1–6 scale, with 4.0 required to pass.
  
