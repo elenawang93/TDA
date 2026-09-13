@@ -4,8 +4,8 @@ Welcome to the TDA course page! I’ll use this space to share lecture notes, an
 
 ## Important Course Information
 
-- **Where:** PER21, D130
-- **When:** Wednesday 14:00 - 17:00
+- **Where:** PER21, F130
+- **When:** Wednesday 14:15 - 17:00
 - **Discussion:** [ILIAS Universität Bern](https://ilias.unibe.ch/go/crs/3684718)
 <!-- [course Slack / Discord / Moodle](https://example.com). *See the syllabus for access information.* -->
 
