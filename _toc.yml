@@ -30,7 +30,7 @@ parts:
       - file: Lectures/01-Introduction/index
         title: "Day 01 (16/9)"
         sections:
-          - file: Lectures/01-Introduction/Lec01-Notebook
+          - file: Lectures/01-Introduction/01Notebook
             title: "Jupyter Notebook"
       - file: Lectures/02-MorseTheory/index
         title: "Day 02 (23/9)"
