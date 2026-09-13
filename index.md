@@ -6,13 +6,13 @@ Welcome to the TDA course page! I’ll use this space to share lecture notes, an
 
 - **Where:** PER21, D130
 - **When:** Wednesday 14:00 - 17:00
-- **Discussion:** To be determined
+- **Discussion:** [ILIAS Universität Bern](https://ilias.unibe.ch/go/crs/3684718)
 <!-- [course Slack / Discord / Moodle](https://example.com). *See the syllabus for access information.* -->
 
 
 ## Instructor Information
 
-**Dr. Elena Xinyi Wang**
+**[Dr. Elena Xinyi Wang](https://elenaxwang.com/)**
 [xinyi.wang@unifr.ch](mailto:xinyi.wang@unifr.ch)
 
 Senior Researcher, Department of Informatics
@@ -21,4 +21,4 @@ Senior Researcher, Department of Informatics
 
 
 ## Announcements
-- **14 September – Homework 0:** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I'd love to hear about your background, especially in mathematics or algorithms, along with your research interests and experience. You're also welcome to include any questions you have about the course.
+- **14 September – Homework 0:** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I'd love to hear about your background, especially in mathematics or algorithms, along with your research interests and experience. You're also welcome to include any questions you have about the course. You can also tell me something fun about yourself (unrelated to math or CS).
