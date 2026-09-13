@@ -1,6 +1,6 @@
 # Inclusive Classroom
 
-Everyone belongs in this course. Mathematics is learned by asking questions, and no question asked in good faith is too basic for this classroom; you are welcome here whatever your background, first language, caregiving responsibilities, or path into the subject. The policies on this page exist to make that concrete.
+Everyone belongs in this course. Mathematics and Computer Science are learned by asking questions, and no question asked in good faith is too basic for this classroom; you are welcome here whatever your background, first language, caregiving responsibilities, or path into the subject. The policies on this page exist to make that concrete.
 
 ## Language
  
