@@ -1,0 +1,25 @@
+name: tda-course
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab>=4,<5
+  - notebook>=7,<8
+  - ipykernel
+  - ipywidgets
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - networkx
+  - scikit-learn
+  - cython
+  - gudhi
+  - plotly
+  - pillow
+  - pot
+  - pip
+  - pip:
+      - ripser
+      - persim
+      - kmapper
