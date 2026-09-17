@@ -6,4 +6,4 @@ This lecture covers the intro to the course, plus the first basic definitions.
 - **Slides:** [Lecture 1 slides pdf](01.pdf)
 - **Notebook:** [Lecture 1 Jupyter notebook](01Notebook.ipynb)
 - **Python set up:** [TDA Environment](tda-environment.yml)
-- **Annotated slides:** Posted after class.
+- **Annotated slides:** [Lecture 1 annotated slides](01Annotated.pdf)
