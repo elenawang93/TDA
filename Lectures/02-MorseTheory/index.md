@@ -1,6 +1,6 @@
 # Lecture 2
 
-Short description of what this lecture covers.
+This lecture covers simplicial complex, Čech, Rips, and Alpha complexes
 
-- **Reading:** DW 1.4, 1.5
-- **Slides:** Coming soon
+- **Reading:** DW 2.1-2.3.1
+- **Slides:** [Lecture 2 slides pdf](02.pdf)

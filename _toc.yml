@@ -28,11 +28,11 @@ parts:
   - caption: Lectures
     chapters:
       - file: Lectures/01-Introduction/index
-        title: "Day 01 (16/9)"
+        title: "Day 01 (16/09)"
         sections:
           - file: Lectures/01-Introduction/01Notebook
             title: "Jupyter Notebook"
       - file: Lectures/02-MorseTheory/index
-        title: "Day 02 (23/9)"
+        title: "Day 02 (23/09)"
       - file: Lectures/03-SimplicialComplexes/index
-        title: "Day 03 (30/9)"
+        title: "Day 03 (30/09)"
