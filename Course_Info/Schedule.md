@@ -9,14 +9,14 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | Date  | Lec. | Topic (Planned) | Reading | Notes | Due |
 | ----- | ---- | --------------- | ------- | ----- | --- |
 | 16/09 | [1](../Lectures/01-Introduction/index.md) | Overview of course; basic topology definitions | DW 1.1–1.3 | HW 1 posted |  |
-| 23/09 | [2](../Lectures/02-MorseTheory/index.md) | Manifolds and Morse theory | DW 1.4, 1.5 |  |  |
-| 30/09 | [3](../Lectures/03-SimplicialComplexes/index.md) | Simplicial complexes | DW 2.1–2.3 |  | HW 1 |
-| 07/10 | 4 | Reeb graphs and merge trees | DW 7.1, 7.2 | HW 2 posted |  |
-| 14/10 | 5 | Mapper | DW 9.1, 9.3 |  |  |
-| 21/10 | 6 | Homology | DW 2.4, 2.5 | Final project introduced; paper list posted. | HW 2 |
-| 28/10 | 7 | Computing homology and filtrations | DW 2.5.1, 3.1; EH IV.2 | HW 3 posted |  |
-| 04/11 | 8 | Persistent homology | DW 3.2, 3.3; EH VII.1 |  | **Project proposal** |
-| 11/11 | 9 | Persistence in practice | DW 3.5, 6.1 | Proposal feedback returned | HW 3 |
+| 23/09 | [2](../Lectures/02-SimplicialComplexes/index.md) | Simplicial complexes | DW 2.1–2.3 |  |  |
+| 30/09 | [3](../Lectures/03-Homology/index.md) | Homology | DW 2.4, 2.5|  | HW 1 |
+| 07/10 | 4 | Computing homology and filtrations | DW 2.5.1, 3.1; EH IV.2 | HW 2 posted |  |
+| 14/10 | 5 |Persistent homology | DW 3.2, 3.3; EH VII.1 |  |  |
+| 21/10 | 6 | Reeb graphs and merge trees | DW 7.1, 7.2 | Final project introduced; paper list posted. | HW 2 |
+| 28/10 | 7 |  Mapper | DW 9.1, 9.3 | HW 3 posted |  |
+| 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 |  | **Project proposal** |
+| 11/11 | 9 | Persistence and Machine Learning |  | Proposal feedback returned | HW 3 |
 | 18/11 | 10 | Distances and stability | DW 3.4; EH VIII.2 | HW 4 posted |  |
 | 25/11 | 11 | Persistence and machine learning | DW 13.1, 13.3 |  |  |
 | 02/12 | 12 | Directional transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) | Presentation schedule posted | HW 4 |

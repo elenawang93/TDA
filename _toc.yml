@@ -32,7 +32,10 @@ parts:
         sections:
           - file: Lectures/01-Introduction/01Notebook
             title: "Jupyter Notebook"
-      - file: Lectures/02-MorseTheory/index
+      - file: Lectures/02-SimplicialComplexes/index
         title: "Day 02 (23/09)"
-      - file: Lectures/03-SimplicialComplexes/index
+        sections:
+          - file: Lectures/02-SimplicialComplexes/02Notebook
+            title: "Jupyter Notebook"
+      - file: Lectures/03-Homology/index
         title: "Day 03 (30/09)"
