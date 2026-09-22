@@ -15,12 +15,9 @@ Welcome to the TDA course page! I’ll use this space to share lecture notes, an
 Instructor: **[Dr. Elena Xinyi Wang](https://elenaxwang.com/)**
 [xinyi.wang@unifr.ch](mailto:xinyi.wang@unifr.ch)
 
-Senior Researcher, Department of Informatics
-
 Teaching Assistant: **Juan P. G. Amboage**
 [juan.garciaamboage@unifr.ch](mailto:juan.garciaamboage@unifr.ch)
 
-Ph.D. Student
 
 ---
 
