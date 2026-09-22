@@ -12,13 +12,19 @@ Welcome to the TDA course page! I’ll use this space to share lecture notes, an
 
 ## Instructor Information
 
-**[Dr. Elena Xinyi Wang](https://elenaxwang.com/)**
+Instructor: **[Dr. Elena Xinyi Wang](https://elenaxwang.com/)**
 [xinyi.wang@unifr.ch](mailto:xinyi.wang@unifr.ch)
 
 Senior Researcher, Department of Informatics
+
+Teaching Assistant: **Juan P. G. Amboage**
+[juan.garciaamboage@unifr.ch](mailto:juan.garciaamboage@unifr.ch)
+
+Ph.D. Student
 
 ---
 
 
 ## Announcements
+- **17 September - Homework 1:** Exercise sheet is posted on ILIAS
 - **14 September – Homework 0:** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I'd love to hear about your background, especially in mathematics or algorithms, along with your research interests and experience. You're also welcome to include any questions you have about the course. You can also tell me something fun about yourself (unrelated to math or CS).

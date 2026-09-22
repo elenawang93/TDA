@@ -1,13 +1,5 @@
 # Syllabus
 
-:::{warning}
-If you have found this webpage before the semester has started, this syllabus is not final!
-:::
-
-<!-- If you prefer to post the syllabus as a PDF, drop the file in this folder and use:
-The syllabus is available here: {download}`COURSE000-Fall2026-syllabus.pdf`
--->
-
 ## Course description
 
 Topology is the study of shape. Over the last two decades, a great deal of work has gone into applying topological ideas to problems in science and engineering, and above all to data analysis; this young field goes by several names, most often computational topology, applied topology, or topological data analysis (TDA). It sits at the intersection of topology, geometry, and algorithms, and its guiding question is how to make the *shape* of a data set precise, computable, and statistically meaningful. Geometric data is now everywhere, and much of it lives in high-dimensional spaces while being organized around lower-dimensional patterns and structures. TDA offers principled ways to detect, summarize, and compare such structure, and to feed it into pipelines for clustering, classification, and simplification.
