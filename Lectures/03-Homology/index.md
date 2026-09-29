@@ -1,7 +1,7 @@
 # Lecture 3
 
-Short description of what this lecture covers. Bring your laptop - we will work through a notebook in class.
+This lecture covers Homology :O
 
-- **Reading:** DW 2.1–2.3
-- **Slides:** Coming soon
+- **Reading:** DW 2.4-2.5
+- **Slides:** [Lecture 3 slides pdf](03.pdf)
 <!-- - **Files for class:** download the notebook from this page before class. -->
