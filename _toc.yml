@@ -42,3 +42,5 @@ parts:
         sections:
           - file: Lectures/03-Homology/03Notebook
             title: "Jupyter Notebook"
+      - file: Lectures/04-Homology2/index
+        title: "Day 04 (07/10)"
