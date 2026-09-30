@@ -38,4 +38,7 @@ parts:
           - file: Lectures/02-SimplicialComplexes/02Notebook
             title: "Jupyter Notebook"
       - file: Lectures/03-Homology/index
-        title: "Day 03 (30/09)"
+        title: "Day 03 (30/09)
+        sections:
+          - file: Lectures/03-Homology/03Notebook
+            title: "Jupyter Notebook"
