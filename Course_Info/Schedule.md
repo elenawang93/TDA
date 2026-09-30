@@ -11,7 +11,7 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 16/09 | [1](../Lectures/01-Introduction/index.md) | Overview of course; basic topology definitions | DW 1.1–1.3 | HW 1 posted |  |
 | 23/09 | [2](../Lectures/02-SimplicialComplexes/index.md) | Simplicial complexes | DW 2.1–2.3 |  |  |
 | 30/09 | [3](../Lectures/03-Homology/index.md) | Homology | DW 2.4, 2.5|  | HW 1 |
-| 07/10 | 4 | Computing homology and filtrations | DW 2.5.1, 3.1; EH IV.2 | HW 2 posted |  |
+| 07/10 | [4](../Lectures/04-Homology2/index.md) | Computing homology and filtrations | DW 2.5.1, 3.1; EH IV.2 | HW 2 posted |  |
 | 14/10 | 5 |Persistent homology | DW 3.2, 3.3; EH VII.1 |  |  |
 | 21/10 | 6 | Reeb graphs and merge trees | DW 7.1, 7.2 | Final project introduced; paper list posted. | HW 2 |
 | 28/10 | 7 |  Mapper | DW 9.1, 9.3 | HW 3 posted |  |
