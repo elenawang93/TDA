@@ -15,9 +15,9 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 14/10 | 5 |Persistent homology | DW 3.2, 3.3; EH VII.1 |  |  |
 | 21/10 | 6 | Reeb graphs and merge trees | DW 7.1, 7.2 | Final project introduced; paper list posted. | HW 2 |
 | 28/10 | 7 |  Mapper | DW 9.1, 9.3 | |  |
-| 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 |  | |
-| 11/11 | 9 | Persistence and Machine Learning |  | |**Project proposal** |
-| 18/11 | 10 | Distances and stability | DW 3.4; EH VIII.2 | |  |
+| 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 | HW 3 | **Project proposal** |
+| 11/11 | 9 | Persistence and Machine Learning |  | | |
+| 18/11 | 10 | Distances and stability | DW 3.4; EH VIII.2 | | HW 3 |
 | 25/11 | 11 | Persistence and machine learning | DW 13.1, 13.3 |  |  |
 | 02/12 | 12 | Directional transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) | Presentation schedule posted | |
 | 09/12 | 13 | Discrete Morse theory, multiparameter persistence | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) |  |  |
