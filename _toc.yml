@@ -44,3 +44,6 @@ parts:
             title: "Jupyter Notebook"
       - file: Lectures/04-Homology2/index
         title: "Day 04 (07/10)"
+        sections:
+          - file: Lectures/04-Homology2/4_student
+            title: "Jupyter Notebook"
