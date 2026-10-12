@@ -47,3 +47,5 @@ parts:
         sections:
           - file: Lectures/04-Homology2/4_student
             title: "Jupyter Notebook"
+      - file: Lectures/05-Filtration/index
+        title: "Day 05 (14/10)"
