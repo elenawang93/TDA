@@ -23,5 +23,6 @@ Teaching Assistant: **Juan P. G. Amboage**
 
 
 ## Announcements
+- **07 October - Homework 2:** Exercise sheet is posted on ILIAS, due on 21 October
 - **17 September - Homework 1:** Exercise sheet is posted on ILIAS
 - **14 September – Homework 0:** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I'd love to hear about your background, especially in mathematics or algorithms, along with your research interests and experience. You're also welcome to include any questions you have about the course. You can also tell me something fun about yourself (unrelated to math or CS).
