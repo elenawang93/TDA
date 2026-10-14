@@ -49,3 +49,6 @@ parts:
             title: "Jupyter Notebook"
       - file: Lectures/05-Filtration/index
         title: "Day 05 (14/10)"
+        sections:
+          - file: Lectures/05-Filtration/5_student
+            title: "Jupyter Notebook"
