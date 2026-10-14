@@ -6,5 +6,5 @@ This lecture covers filtration and induced maps
 - **Slides:** [Lecture 5 slides pdf](05.pdf)
 - **Notebook:** [Lecture 5 Jupyter notebook](5_student.ipynb)
 - **Python helper:** [Lecture 5 helper](lecture5_helpers.py)
-- **Annotated slides:** posted after class
+- **Annotated slides:** [Lecture 5 annotated slides](05Annotated.pdf)
 <!-- - **Files for class:** download the notebook from this page before class. -->
