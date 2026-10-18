@@ -52,3 +52,5 @@ parts:
         sections:
           - file: Lectures/05-Filtration/5_student
             title: "Jupyter Notebook"
+      - file: Lectures/06-Persistence/index
+        title: "Day 06 (21/10)"
