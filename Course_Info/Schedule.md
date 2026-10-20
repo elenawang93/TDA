@@ -15,7 +15,7 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 14/10 | [5](../Lectures/05-Filtration/index.md) |Filtration and induced maps | DW 2.5.1|  |  |
 | 21/10 | [6](../Lectures/06-Persistence/index.md) | Persistence | DW 3.1-3.3 | Final project introduced; HW 3 and paper list posted | HW 2 |
 | 28/10 | 7 |  Mapper | DW 9.1, 9.3 | |  |
-| 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 |  | HW 3 |
+| 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 |  | HW 3 **(01/11)** |
 | 11/11 | 9 | Persistence and Machine Learning |  | | **Project proposal** |
 | 18/11 | 10 | Distances and stability | DW 3.4; EH VIII.2 | |  |
 | 25/11 | 11 | Persistence and machine learning | DW 13.1, 13.3 |  |  |
@@ -33,7 +33,7 @@ Homework and project deliverables are due at 23:59 on the date listed. Problem p
 - **Homework** (posted two weeks before the due date): HW 1 due 01/10, HW 2 due 21/10.
 - **Final project**
   - 21/10 – project introduced in class; suggested paper list posted
-  - 22/10 to 3/11 – proposal appointments (book a slot with me)
+  - 2/11 to 6/11 – proposal appointments (book a slot with me)
   - 11/11 – written proposal due (accepted only after your appointment)
   - 18/11 – written feedback on proposals returned
   - 02/12 – presentation schedule posted
