@@ -13,11 +13,11 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 30/09 | [3](../Lectures/03-Homology/index.md) | Homology | DW 2.4, 2.5|  | HW 1 |
 | 07/10 | [4](../Lectures/04-Homology2/index.md) | Computing homology and filtrations | DW 2.5.1 | HW 2 posted |  |
 | 14/10 | [5](../Lectures/05-Filtration/index.md) |Filtration and induced maps | DW 2.5.1|  |  |
-| 21/10 | [6](../Lectures/06-Persistence/index.md) | Persistence | DW 3.1-3.3 | Final project introduced; paper list posted. | HW 2 |
+| 21/10 | [6](../Lectures/06-Persistence/index.md) | Persistence | DW 3.1-3.3 | Final project introduced; HW 3 and paper list posted | HW 2 |
 | 28/10 | 7 |  Mapper | DW 9.1, 9.3 | |  |
-| 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 | HW 3 | **Project proposal** |
-| 11/11 | 9 | Persistence and Machine Learning |  | | |
-| 18/11 | 10 | Distances and stability | DW 3.4; EH VIII.2 | | HW 3 |
+| 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 |  | HW 3 |
+| 11/11 | 9 | Persistence and Machine Learning |  | | **Project proposal** |
+| 18/11 | 10 | Distances and stability | DW 3.4; EH VIII.2 | |  |
 | 25/11 | 11 | Persistence and machine learning | DW 13.1, 13.3 |  |  |
 | 02/12 | 12 | Directional transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) | Presentation schedule posted | |
 | 09/12 | 13 | Discrete Morse theory, multiparameter persistence | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) |  |  |
