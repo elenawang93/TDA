@@ -23,7 +23,8 @@ Teaching Assistant: **Juan P. G. Amboage**
 
 
 ## Announcements
-- **21 October - Homework 3:** HW 3 (paper chase) is posted on ILIAS, due on 1 November, make sure to read the instructions carefully
+- **21 October - Homework 2 Extension:** Since the ILIAS system is down, the deadline for HW2 is extended to 22/10 at midnight. You're welcome to send it to me via email if you want to get it out of your way.
+- **20 October - Homework 3:** HW 3 (paper chase) is posted on ILIAS, due on 1 November, make sure to read the instructions carefully
 - **07 October - Homework 2:** Exercise sheet is posted on ILIAS, due on 21 October
 - **17 September - Homework 1:** Exercise sheet is posted on ILIAS
 - **14 September – Homework 0:** Please read the syllabus and course policies carefully, then send me a brief email by the end of the week introducing yourself. I'd love to hear about your background, especially in mathematics or algorithms, along with your research interests and experience. You're also welcome to include any questions you have about the course. You can also tell me something fun about yourself (unrelated to math or CS).
