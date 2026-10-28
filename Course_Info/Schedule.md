@@ -14,7 +14,7 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 07/10 | [4](../Lectures/04-Homology2/index.md) | Computing homology and filtrations | DW 2.5.1 | HW 2 posted |  |
 | 14/10 | [5](../Lectures/05-Filtration/index.md) |Filtration and induced maps | DW 2.5.1|  |  |
 | 21/10 | [6](../Lectures/06-Persistence/index.md) | Persistence | DW 3.1-3.3 | Final project introduced; HW 3 and paper list posted | HW 2 |
-| 28/10 | 7 |  Mapper | DW 9.1, 9.3 | |  |
+| 28/10 | [7](.../Lectures/07-PersAlg/index.md) |  Persistence algorithm | DW 3.3, EH VII.1 | |  |
 | 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 |  | HW 3 **(01/11)** |
 | 11/11 | 9 | Persistence and Machine Learning |  | | **Project proposal** |
 | 18/11 | 10 | Distances and stability | DW 3.4; EH VIII.2 | |  |

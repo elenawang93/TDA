@@ -57,3 +57,5 @@ parts:
         sections:
           - file: Lectures/06-Persistence/6_student
             title: "Jupyter Notebook"
+      - file: Lectures/07-PersAlg/index
+        title: "Day 07 (28/10)"
