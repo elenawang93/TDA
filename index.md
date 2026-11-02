@@ -23,6 +23,7 @@ Teaching Assistant: **Juan P. G. Amboage**
 
 
 ## Announcements
+- **Project Proposal Meeting:** Don't forget to schedule a required meeting with me to discuss your project [here](https://calendly.com/xinyi-wang-unifr/30min)
 - **21 October - Homework 2 Extension:** Since the ILIAS system is down, the deadline for HW2 is extended to 22/10 at midnight. You're welcome to send it to me via email if you want to get it out of your way.
 - **20 October - Homework 3:** HW 3 (paper chase) is posted on ILIAS, due on 1 November, make sure to read the instructions carefully
 - **07 October - Homework 2:** Exercise sheet is posted on ILIAS, due on 21 October

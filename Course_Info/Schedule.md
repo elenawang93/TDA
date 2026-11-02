@@ -15,14 +15,15 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 14/10 | [5](../Lectures/05-Filtration/index.md) |Filtration and induced maps | DW 2.5.1|  |  |
 | 21/10 | [6](../Lectures/06-Persistence/index.md) | Persistence | DW 3.1-3.3 | Final project introduced; HW 3 and paper list posted | HW 2 |
 | 28/10 | [7](.../Lectures/07-PersAlg/index.md) |  Persistence algorithm | DW 3.3, EH VII.1 | |  |
-| 04/11 | 8 | Persistence in practice | DW 3.5, 6.1 |  | HW 3 **(01/11)** |
-| 11/11 | 9 | Persistence and Machine Learning |  | | **Project proposal** |
-| 18/11 | 10 | Distances and stability | DW 3.4; EH VIII.2 | |  |
-| 25/11 | 11 | Persistence and machine learning | DW 13.1, 13.3 |  |  |
-| 02/12 | 12 | Directional transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) | Presentation schedule posted | |
-| 09/12 | 13 | Discrete Morse theory, multiparameter persistence | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) |  |  |
+| 04/11 | 8 | Persistence in practice |3.3,, 13.3, EH VII.1 |  | HW 3 **(01/11)** |
+| 11/11 | 9 | Directional transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) | | **Project proposal** |
+| 18/11 | 10 | Multiparameter persistence | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) | |  |
+| 25/11 | 11 | TBD |  |  |  |
+| 02/12 | 12 | TBD |  | Presentation schedule posted | |
+| 09/12 | 13 | No class |  |  |  |
 | 16/12 |  | **Final project presentations** |  | Send slides by Tue 15/12 | **Project presentation** |
-| 23/12 |  | *No class* |  |  | **Final report** |
+| 25/01/27 |  |  |  |  | **Final report** |
+| 12/02/27 |  |  |  |  | **Oral exam** |
 
 
 Homework and project deliverables are due at 23:59 on the date listed. Problem presentations take place at the start of every class from Lecture 2 onward; the presenter list will be posted here once enrollment has settled.
@@ -38,7 +39,8 @@ Homework and project deliverables are due at 23:59 on the date listed. Problem p
   - 18/11 – written feedback on proposals returned
   - 02/12 – presentation schedule posted
   - 16/12 – project presentations in class (slides by 15/12)
-  - 23/12 – final report due
+  - 25/01/2027 – final report due
+  - 12/02/2027 – oral exam
 
 ## Office Hours
 
