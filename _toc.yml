@@ -59,3 +59,5 @@ parts:
             title: "Jupyter Notebook"
       - file: Lectures/07-PersAlg/index
         title: "Day 07 (28/10)"
+      - file: Lectures/08-StabilityML/index
+        title: "Day 08 (04/11)"
