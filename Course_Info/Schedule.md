@@ -15,7 +15,7 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 14/10 | [5](../Lectures/05-Filtration/index.md) |Filtration and induced maps | DW 2.5.1|  |  |
 | 21/10 | [6](../Lectures/06-Persistence/index.md) | Persistence | DW 3.1-3.3 | Final project introduced; HW 3 and paper list posted | HW 2 |
 | 28/10 | [7](.../Lectures/07-PersAlg/index.md) |  Persistence algorithm | DW 3.3, EH VII.1 | |  |
-| 04/11 | 8 | Persistence in practice |3.3,, 13.3, EH VII.1 |  | HW 3 **(01/11)** |
+| 04/11 | [8](.../Lectures/08-StabilityML) | Persistence in practice |3.3, 13.3, EH VII.1 |  | HW 3 **(01/11)** |
 | 11/11 | 9 | Directional transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) | | **Project proposal** |
 | 18/11 | 10 | Multiparameter persistence | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) | |  |
 | 25/11 | 11 | TBD |  |  |  |
