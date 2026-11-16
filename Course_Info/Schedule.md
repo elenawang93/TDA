@@ -16,10 +16,10 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 21/10 | [6](../Lectures/06-Persistence/index.md) | Persistence | DW 3.1-3.3 | Final project introduced; HW 3 and paper list posted | HW 2 |
 | 28/10 | [7](.../Lectures/07-PersAlg/index.md) |  Persistence algorithm | DW 3.3, EH VII.1 | |  |
 | 04/11 | [8](.../Lectures/08-StabilityML) | Persistence in practice |3.3, 13.3, EH VII.1 |  | HW 3 **(01/11)** |
-| 11/11 | 9 | Directional transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) | | **Project proposal** |
-| 18/11 | 10 | Multiparameter persistence | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) | |  |
-| 25/11 | 11 | TBD |  |  |  |
-| 02/12 | 12 | TBD |  | Presentation schedule posted | |
+| 11/11 | [9](.../Lectures/09-Applications) | Applications | See lecture site | | **Project proposal** |
+| 18/11 | 10 | Directional Transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) |  |  |
+| 25/11 | 11 | Multiparameter persistence | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) | |  |
+| 02/12 | 12 | Mapper |  | Presentation schedule posted | |
 | 09/12 | 13 | No class |  |  |  |
 | 16/12 |  | **Final project presentations** |  | Send slides by Tue 15/12 | **Project presentation** |
 | 25/01/27 |  |  |  |  | **Final report** |
