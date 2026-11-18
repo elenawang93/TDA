@@ -63,3 +63,5 @@ parts:
         title: "Day 08 (04/11)"
       - file: Lectures/09-Applications/index
         title: "Day 09 (11/11)"
+      - file: Lectures/10-DirecTrans/index
+        title: "Day 10 (18/11)"

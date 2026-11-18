@@ -1,8 +1,8 @@
-# Lecture 8
+# Lecture 10
 
-This lecture covers four applications using persistence images and landscapes, and an introduction to direcitonal transform.
+This lecture covers direcitonal transforms.
 
-- **Reading:** 
-- **Slides:** [Lecture 9 slides pdf](09.pdf)
-- **Annotated slides:** [Lecture 8 annotated slides](08Annotated.pdf)
+- **Reading:** [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011)
+- **Slides:** [Lecture 10 slides pdf](10.pdf)
+- **Annotated slides:** posted after class
 <!-- - **Files for class:** download the notebook from this page before class. -->
