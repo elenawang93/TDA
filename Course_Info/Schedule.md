@@ -17,9 +17,9 @@ Readings are from Dey & Wang, [*Computational Topology for Data Analysis*](https
 | 28/10 | [7](.../Lectures/07-PersAlg/index.md) |  Persistence algorithm | DW 3.3, EH VII.1 | |  |
 | 04/11 | [8](.../Lectures/08-StabilityML) | Persistence in practice |3.3, 13.3, EH VII.1 |  | HW 3 **(01/11)** |
 | 11/11 | [9](.../Lectures/09-Applications) | Applications | See lecture site | | **Project proposal** |
-| 18/11 | 10 | Directional Transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) |  |  |
-| 25/11 | 11 | Multiparameter persistence | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) | |  |
-| 02/12 | 12 | Mapper |  | Presentation schedule posted | |
+| 18/11 | [10](.../Lectures/10-DirecTrans) | Directional Transforms | [ECT survey](https://arxiv.org/abs/2310.10395); [PHT](https://doi.org/10.1093/imaiai/iau011) |  |  |
+| 25/11 | [11](.../Lectures/11-Mapper) | Reeb and Mapper | DW 7.1, 9.1, 9.3. | |  |
+| 02/12 | 12 | Multiparameter | DW 10.1, 10.2, 11.1; [Multiparameter survey](https://arxiv.org/abs/2203.14289) | Presentation schedule posted | |
 | 09/12 | 13 | No class |  |  |  |
 | 16/12 |  | **Final project presentations** |  | Send slides by Tue 15/12 | **Project presentation** |
 | 25/01/27 |  |  |  |  | **Final report** |
