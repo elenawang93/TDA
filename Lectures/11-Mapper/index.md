@@ -7,5 +7,4 @@ This lecture covers Reeb and Mapper graphs
 - **Notebook:** [Lecture 11 Jupyter notebook](11_student.ipynb)
 - **Data:** [Mapper Point Cloud](MapperExampleCloud.txt)
 - **Annotated slides:** Posted after class
-- **Problems for presentation:** [Lecture 10 Problems](10HW.pdf)
 <!-- - **Files for class:** download the notebook from this page before class. -->
