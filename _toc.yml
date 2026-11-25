@@ -68,4 +68,5 @@ parts:
       - file: Lectures/11-Mapper/index
         title: "Day 11 (25/11)"
         sections:
-          -file: Lectures/11-Mapper/11_student
+          - file: Lectures/11-Mapper/11_student
+            title: "Jupyter Notebook"
